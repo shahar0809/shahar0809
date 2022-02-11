@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi! My name is Shahar, and I'm a Computer Science student at Haifa University.
+I'm interested in Cyber Security, Deep Learning and Computer Vision.
+Also, I'm a CTF enthusiast :)
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shahar0809&count_private=true&theme=tokyonight&showicons=true)]()
 
 
