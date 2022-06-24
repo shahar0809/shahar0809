@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Hi! My name is Shahar, and I'm a Computer Science student at Haifa University 👩‍🎓
 
-I'm interested in Cyber Security, Deep Learning and Computer Vision.
+I'm interested in Cyber Security and Computer Vision.
 
 CTF enthusiast 👩‍💻
 
